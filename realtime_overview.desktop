@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=realtime_overview
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Realtime Overview
+Comment=Detachable, realtime overview window of the canvas (updates during Transform tool and other long strokes)
